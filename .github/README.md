@@ -11,3 +11,5 @@ TODO:
 - drag drop young image to match current image
 - time and score experience
 - get image of person that does not exist
+- infra
+- documentation
